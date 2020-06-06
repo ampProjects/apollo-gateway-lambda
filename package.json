@@ -15,7 +15,7 @@
     "@apollo/gateway": "^0.6.5",
     "@babel/runtime": "7.4.5",
     "apollo-errors": "1.9.0",
-    "apollo-server-express": "2.6.2",
+    "apollo-server-express": "2.14.2",
     "apollo-server-lambda": "2.6.2",
     "apollo-server-scripts": "^0.4.0-alpha.1",
     "graphql": "14.3.1",
